@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a fifth-year PhD student in the [department of Mechanical Engineering](https://www.meche.engineering.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu). I am a graduate research assistant in the [Mechanical and Artificial Intelligence Lab (MAIL)](https://sites.google.com/view/barati), advised by [Amir Barati Farimani](https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html). I also hold an M.Sc. from CMU MechE, and before that, I obtained my B.Sc. from Sharif University of Technology, Iran.
 
 ## Research Interests
 
