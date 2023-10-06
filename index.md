@@ -8,7 +8,7 @@ I am currently a fifth-year PhD student in the [department of Mechanical Enginee
 
 ## Research Interests
 
-- **Deep Learning for Symbolic Mathematics:** , neural symbolic regression, mathematical reasoning, ODE/PDE Discovery
+- **Deep Learning for Symbolic Mathematics:** Neural Symbolic Regression, ODE/PDE Discovery
 - **AI for Physics:** Deep Learning for solving PDEs, AI for Molecular Simulations
 
 <!-- ## News
