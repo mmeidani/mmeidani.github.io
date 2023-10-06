@@ -1,4 +1,4 @@
-## Services
+## Professional Services
 <!-- 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
@@ -11,6 +11,9 @@
 <h4 style="margin:0 10px 0;">Reviewer for Journals of</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>Expert Systems with Applications (ESwA)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications"><autocolor>Expert Systems with Applications (ESwA)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/applied-soft-computing"><autocolor>Applied Soft Computing (ASC)</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/10489"><autocolor>Applied Intelligence</autocolor></a></li>
+  <li><a href="https://ieeeaccess.ieee.org"><autocolor>IEEE Access</autocolor></a></li>
+  <li><a href="https://journals.plos.org/plosone/"><autocolor>PLOS ONE</autocolor></a></li>
 </ul>

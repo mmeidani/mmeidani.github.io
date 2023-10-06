@@ -22,7 +22,7 @@ main:
   #   image: ./assets/img/teaser_example.png
 
   - title: "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training"
-    authors: Parshin Shojaee*, <strong>Kazem Meidani</strong>*, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
+    authors: <strong>Kazem Meidani</strong>*, Parshin Shojaee*, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
     conference_short: Preprint
     conference: arXiv preprint.
     pdf: https://browse.arxiv.org/pdf/2310.02227.pdf 

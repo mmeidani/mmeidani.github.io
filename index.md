@@ -2,14 +2,15 @@
 layout: homepage
 ---
 
-## About Me
+## Biography
 
-I am currently a fifth-year PhD student in the [department of Mechanical Engineering](https://www.meche.engineering.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu). I am a graduate research assistant in the [Mechanical and Artificial Intelligence Lab (MAIL)](https://sites.google.com/view/barati), advised by [Amir Barati Farimani](https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html). I also hold an M.Sc. from CMU MechE, and before that, I obtained my B.Sc. from Sharif University of Technology, Iran.
+I am currently a fifth-year PhD student in the [department of Mechanical Engineering](https://www.meche.engineering.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu). I am a graduate research assistant in the [Mechanical and Artificial Intelligence Lab (MAIL)](https://sites.google.com/view/barati), advised by [Amir Barati Farimani](https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html). During my PhD, I also worked with [Electronic Arts](https://www.ea.com) as AI Scientist Research Intern in EA AI Lab. I also hold an MSc from [CMU MechE](https://www.meche.engineering.cmu.edu). Before that, I obtained my B.Sc. in dual majors of Mechanical Engineering and Industrial Engineering from Sharif University of Technology, Iran. 
 
 ## Research Interests
 
+My primary research interests revolve around AI for Science. Most of my works fall into one these categories:
 - **Deep Learning for Symbolic Mathematics:** Neural Symbolic Regression, ODE/PDE Discovery
-- **AI for Physics:** Deep Learning for solving PDEs, AI for Molecular Simulations
+- **Deep Learning for Physics:** Deep Learning for solving PDEs, AI for Molecular Simulations
 
 <!-- ## News
 
