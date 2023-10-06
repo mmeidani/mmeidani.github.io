@@ -20,16 +20,4 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
-
-   - title: "Transformer-based Planning for Symbolic Regression"
-    authors: Parshin Shojaee*, <strong>Kazem Meidani</strong>*, Amir Barati Farimani, Chandan K. Reddy (Equal Contribution)
-    conference_short: NeurIPS
-    conference: Thirty-seventh Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2303.06833.pdf 
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex:  https://scholar.googleusercontent.com/scholar.bib?q=info:7XhDJVozBgoJ:scholar.google.com/&output=citation&scisdr=ClHShapcELuZ6IlTyls:AFWwaeYAAAAAZR9V0lsvmI_252JGfvyo9P5auBM&scisig=AFWwaeYAAAAAZR9V0ineoF38ARve4iAfHnwL2wA&scisf=4&ct=citation&cd=-1&hl=en
-    # notes: Oral Presentation
-    image: ./assets/img/TPSR.png
-
   
