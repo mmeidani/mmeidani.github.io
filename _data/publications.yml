@@ -1,30 +1,123 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  #   conference_short: MICCAI
+  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   code: https://github.com/MrGiovanni/ContinualLearning
+  #   bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/teaser_example_2.png
+  #   notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
+
+  - title: "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training"
+    authors: Parshin Shojaee*, <strong>Kazem Meidani</strong>*, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
+    conference_short: Preprint
+    conference: arXiv preprint.
+    pdf: https://browse.arxiv.org/pdf/2310.02227.pdf 
+    image: ./assets/img/snip_square.png
+    notes: Submitted to <strong>(ICLR)</strong>, 2024.
   
   - title: "Transformer-based Planning for Symbolic Regression"
-    authors: Parshin Shojaee*, <strong>Kazem Meidani</strong>*, Amir Barati Farimani, Chandan K. Reddy (Equal Contribution)
+    authors: Parshin Shojaee*, <strong>Kazem Meidani</strong>*, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
     conference_short: NeurIPS
     conference: Thirty-seventh Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2303.06833.pdf 
     bibtex:  https://scholar.googleusercontent.com/scholar.bib?q=info:7XhDJVozBgoJ:scholar.google.com/&output=citation&scisdr=ClHShapcELuZ6IlTyls:AFWwaeYAAAAAZR9V0lsvmI_252JGfvyo9P5auBM&scisig=AFWwaeYAAAAAZR9V0ineoF38ARve4iAfHnwL2wA&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/tpsr.png
+
+  - title: "Transformer for Partial Differential Equations' Operator Learning"
+    authors: Zijie Li, <strong>Kazem Meidani</strong>, Amir Barati Farimani
+    conference_short: TMLR
+    conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2205.13671.pdf 
+    bibtex:  https://scholar.googleusercontent.com/scholar.bib?q=info:XKKXXgurWcgJ:scholar.google.com/&output=citation&scisdr=ClHShapcELuZ6LYf9oU:AFWwaeYAAAAAZSAZ7oVmcMAcwu4AZtIr0L6Lq_g&scisig=AFWwaeYAAAAAZSAZ7jhO8wTP2JzGgKTm1BhVQrM&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/oformer.png
+
+  - title: "Identification of Parametric Dynamical Systems using Integer Programming"
+    authors: <strong>Kazem Meidani</strong>, Amir Barati Farimani
+    conference_short: ESwA
+    conference: Expert Systems with Applications <strong>(ESwA)</strong>, 2023.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0957417423001239
+    image: ./assets/img/ip2.png
+
+  - title: "Data-driven identification of 2D Partial Differential Equations using extracted physical features"
+    authors: <strong>Kazem Meidani</strong>, Amir Barati Farimani
+    conference_short: CMAME
+    conference: Computer Methods in Applied Mechanics and Engineering <strong>(CMAME)</strong>, 2021.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0045782521001687
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:zjVT-UD3e_sJ:scholar.google.com/&output=citation&scisdr=ClHShapcELuZ6LYacnw:AFWwaeYAAAAAZSAcanwCZXCRzPdYG01SBcw_GDY&scisig=AFWwaeYAAAAAZSAcaoda7Csu4rvH4IeT1lAat28&scisf=4&ct=citation&cd=-1&hl=en 
+    image: ./assets/img/pde_identification.png
+
+  - title: "Graph neural networks accelerated molecular dynamics"
+    authors: Zijie Li, <strong>Kazem Meidani</strong>, Prakarsh Yadav, Amir Barati Farimani
+    conference_short: JCP
+    conference: The Journal of Chemical Physics <strong>(JCP)</strong>, 2022.
+    pdf: https://browse.arxiv.org/pdf/2112.03383.pdf 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gpkczc-q2lIJ:scholar.google.com/&output=citation&scisdr=ClHShapcELuZ6LYd2i0:AFWwaeYAAAAAZSAbwi0xtfBfseiJQjrXMVitLEk&scisig=AFWwaeYAAAAAZSAbwnJ8e9wN5adrJ-I4cpACiHo&scisf=4&ct=citation&cd=-1&hl=en 
+    image: ./assets/img/gamd.png
+
+  - title: "Graph convolutional networks applied to unstructured flow field data"
+    authors: Francis Ogoke, <strong>Kazem Meidani</strong>, Amirreza Hashemi, Amir Barati Farimani
+    conference_short: MLST
+    conference: Machine Learning Science and Technology <strong>(MLST)</strong>, 2021.
+    pdf: https://iopscience.iop.org/article/10.1088/2632-2153/ac1fc9/pdf
+    bibtex: https://iopscience.iop.org/export?type=article&doi=10.1088/2632-2153/ac1fc9&exportFormat=iopexport_bib&exportType=abs&navsubmit=Export+abstract 
+    image: ./assets/img/graph_airfoil.png
+
+  - title: "Inverse Lighting with Differentiable Physically-Based Model"
+    authors: <strong>Kazem Meidani</strong>, Igor Borovikov, Amir Barati Farimani, Harold Chaput
+    conference_short: LION
+    conference: The 17th Learning and Intelligent Optimization Conference <strong>(LION)</strong>, 2023.
+    image: ./assets/img/inverse_lighting.png
+    notes: Work from Internship at Electronic Arts (EA)
+
+  - title: "Titanium Carbide MXene for Water Desalination: A Molecular Dynamics Study"
+    authors:<strong>Kazem Meidani</strong>*, Zhonglin Cao*, Amir Barati Farimani (*Equal Contribution)
+    conference_short: ACS Appl. Nano Mater.
+    conference: ACS Applied Nano Materials <strong>(ACS Appl. Nano Mater.)</strong>, 2021.
+    pdf: https://pubs.acs.org/doi/abs/10.1021/acsanm.1c00944
+    image: ./assets/img/mxene.png
+
+  - title: "MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning"
+    authors: Parand Akbari, Francis Ogoke, Ning-Yu Kao, <strong>Kazem Meidani</strong>, Chun-Yu Yeh, William Lee, Amir Barati Farimani 
+    conference: Additive Manufacturing, 2022.
+    pdf: https://www.sciencedirect.com/science/article/pii/S2214860422002172
+    image: ./assets/img/am.png
+
+  - title: "Online Metaheuristic Algorithm Selection"
+    authors: <strong>Kazem Meidani</strong>, Seyedali Mirjalili, Amir Barati Farimani
+    conference_short: ESwA
+    conference: Expert Systems with Applications <strong>(ESwA)</strong>, 2022.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0957417422004729
+    image: ./assets/img/online_meta.png
+
+  - title: "MAB-OS: Multi-Armed Bandits Metaheuristic Optimizer Selection"
+    authors: <strong>Kazem Meidani</strong>, Seyedali Mirjalili, Amir Barati Farimani
+    conference_short: ASC
+    conference: Applied Soft Computing <strong>(ASC)</strong>, 2022.
+    pdf: https://www.sciencedirect.com/science/article/pii/S1568494622005671 
+    image: ./assets/img/mab_os.png
+ 
+  - title: "Adaptive grey wolf optimizer"
+    authors: <strong>Kazem Meidani</strong>, AmirPouya Hemmasian, Seyedali Mirjalili, Amir Barati Farimani
+    conference: Neural Computing and Applications, 2022.
+    pdf: https://link.springer.com/article/10.1007/s00521-021-06885-9 
+    image: ./assets/img/agwo.png
+  
+
+
+  
+
+
