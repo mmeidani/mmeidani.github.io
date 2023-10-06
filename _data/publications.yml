@@ -83,38 +83,38 @@ main:
     image: ./assets/img/lighting.png
     notes: Work from Internship at Electronic Arts (EA)
 
-  # - title: "Titanium Carbide MXene for Water Desalination: A Molecular Dynamics Study"
-  #   authors:<strong>Kazem Meidani</strong>*, Zhonglin Cao*, Amir Barati Farimani (*Equal Contribution)
-  #   conference_short: ACS Appl. Nano Mater.
-  #   conference: ACS Applied Nano Materials <strong>(ACS Appl. Nano Mater.)</strong>, 2021.
-  #   pdf: https://pubs.acs.org/doi/abs/10.1021/acsanm.1c00944
-  #   image: ./assets/img/mxene.png
+  - title: "Titanium Carbide MXene for Water Desalination: A Molecular Dynamics Study"
+    authors: <strong>Kazem Meidani</strong>*, Zhonglin Cao*, Amir Barati Farimani (*Equal Contribution)
+    conference_short: ACS Appl. Nano Mater.
+    conference: ACS Applied Nano Materials <strong>(ACS Appl. Nano Mater.)</strong>, 2021.
+    pdf: https://pubs.acs.org/doi/abs/10.1021/acsanm.1c00944
+    image: ./assets/img/mxene.png
 
-  # - title: "MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning"
-  #   authors: Parand Akbari, Francis Ogoke, Ning-Yu Kao, <strong>Kazem Meidani</strong>, Chun-Yu Yeh, William Lee, Amir Barati Farimani 
-  #   conference: Additive Manufacturing, 2022.
-  #   pdf: https://www.sciencedirect.com/science/article/pii/S2214860422002172
-  #   image: ./assets/img/am.png
+  - title: "MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning"
+    authors: Parand Akbari, Francis Ogoke, Ning-Yu Kao, <strong>Kazem Meidani</strong>, Chun-Yu Yeh, William Lee, Amir Barati Farimani 
+    conference: Additive Manufacturing, 2022.
+    pdf: https://www.sciencedirect.com/science/article/pii/S2214860422002172
+    image: ./assets/img/am.png
 
-  # - title: "Online Metaheuristic Algorithm Selection"
-  #   authors: <strong>Kazem Meidani</strong>, Seyedali Mirjalili, Amir Barati Farimani
-  #   conference_short: ESwA
-  #   conference: Expert Systems with Applications <strong>(ESwA)</strong>, 2022.
-  #   pdf: https://www.sciencedirect.com/science/article/pii/S0957417422004729
-  #   image: ./assets/img/online_meta.png
+  - title: "Online Metaheuristic Algorithm Selection"
+    authors: <strong>Kazem Meidani</strong>, Seyedali Mirjalili, Amir Barati Farimani
+    conference_short: ESwA
+    conference: Expert Systems with Applications <strong>(ESwA)</strong>, 2022.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0957417422004729
+    image: ./assets/img/online_meta.png
 
-  # - title: "MAB-OS: Multi-Armed Bandits Metaheuristic Optimizer Selection"
-  #   authors: <strong>Kazem Meidani</strong>, Seyedali Mirjalili, Amir Barati Farimani
-  #   conference_short: ASC
-  #   conference: Applied Soft Computing <strong>(ASC)</strong>, 2022.
-  #   pdf: https://www.sciencedirect.com/science/article/pii/S1568494622005671 
-  #   image: ./assets/img/mab_os.png
+  - title: "MAB-OS: Multi-Armed Bandits Metaheuristic Optimizer Selection"
+    authors: <strong>Kazem Meidani</strong>, Seyedali Mirjalili, Amir Barati Farimani
+    conference_short: ASC
+    conference: Applied Soft Computing <strong>(ASC)</strong>, 2022.
+    pdf: https://www.sciencedirect.com/science/article/pii/S1568494622005671 
+    image: ./assets/img/mab_os.png
  
-  # - title: "Adaptive grey wolf optimizer"
-  #   authors: <strong>Kazem Meidani</strong>, AmirPouya Hemmasian, Seyedali Mirjalili, Amir Barati Farimani
-  #   conference: Neural Computing and Applications, 2022.
-  #   pdf: https://link.springer.com/article/10.1007/s00521-021-06885-9 
-  #   image: ./assets/img/agwo.png
+  - title: "Adaptive grey wolf optimizer"
+    authors: <strong>Kazem Meidani</strong>, AmirPouya Hemmasian, Seyedali Mirjalili, Amir Barati Farimani
+    conference: Neural Computing and Applications, 2022.
+    pdf: https://link.springer.com/article/10.1007/s00521-021-06885-9 
+    image: ./assets/img/agwo.png
   
 
 
