@@ -27,7 +27,6 @@ main:
     conference: arXiv preprint.
     pdf: https://browse.arxiv.org/pdf/2310.02227.pdf 
     image: ./assets/img/snip_square.png
-    notes: Submitted to ICLR 2024.
   
   - title: "Transformer-based Planning for Symbolic Regression"
     authors: Parshin Shojaee*, <strong>Kazem Meidani</strong>*, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
