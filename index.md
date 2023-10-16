@@ -8,7 +8,7 @@ I am currently a fifth-year PhD student in the [department of Mechanical Enginee
 
 ## Research Interests
 
-My primary research interests revolve around AI for Science. Most of my works fall into one these categories:
+My primary research interests revolve around AI for Science. Most of my works fall into one of the following categories:
 - **Deep Learning for Symbolic Mathematics:** Neural Symbolic Regression, ODE/PDE Discovery
 - **Deep Learning for Physics:** Deep Learning for solving PDEs, AI for Molecular Simulations
 
