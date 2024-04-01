@@ -4,13 +4,13 @@ layout: homepage
 
 ## Biography
 
-I am currently a fifth-year PhD student in the [department of Mechanical Engineering](https://www.meche.engineering.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu). I am a graduate research assistant in the [Mechanical and Artificial Intelligence Lab (MAIL)](https://sites.google.com/view/barati), advised by [Amir Barati Farimani](https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html). During my PhD, I also worked with [Electronic Arts](https://www.ea.com) as AI Scientist Research Intern in EA AI Lab. Before that, I obtained my B.Sc. in dual majors of Mechanical Engineering and Industrial Engineering from Sharif University of Technology, Iran. 
+I am a senior PhD candidate at [Carnegie Mellon University](https://www.cmu.edu). I am a graduate research assistant in the [Mechanical and Artificial Intelligence Lab (MAIL)](https://sites.google.com/view/barati), advised by [Amir Barati Farimani](https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html). During my PhD, I also worked with [Electronic Arts](https://www.ea.com) as AI Scientist Research Intern in EA AI Lab.
 
 ## Research Interests
 
-My primary research interests revolve around AI for Science. Most of my works fall into one of the following categories:
-- **Deep Learning for Symbolic Mathematics:** Neural Symbolic Regression, ODE/PDE Discovery
-- **Deep Learning for Physics:** Deep Learning for solving PDEs, AI for Molecular Simulations
+My primary research interests revolve around Language Models and AI for Science. Most of my works fall into one of the following categories:
+- **Language Models:** LLMs as Search Agents, LLMs for Code generation and Scientific Discovery, Multi-modal Pre-training for Math, Generative Language Models for symbolic expressions
+- **AI for Science:** Transformers and GNNs for Learning Physics, ML and Optimization for Scientific Discovery
 
 <!-- ## News
 
