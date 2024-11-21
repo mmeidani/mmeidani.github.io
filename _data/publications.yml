@@ -22,7 +22,7 @@ main:
   #   image: ./assets/img/teaser_example.png
 
   - title: "LLM-SR: Scientific Equation Discovery via Programming with Large Language Models"
-    authors: <strong>Kazem Meidani</strong>*, Parshin Shojaee*, Shashank Gupta, Chandan K. Reddy, Amir Barati Farimani(*Equal Contribution)
+    authors:  Parshin Shojaee*, <strong>Kazem Meidani</strong>*, Shashank Gupta, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
     conference_short: arXiv
     conference: arXiv Preprint
     pdf: https://arxiv.org/pdf/2404.18400
@@ -38,7 +38,7 @@ main:
     notes: Spotlight
   
   - title: "Transformer-based Planning for Symbolic Regression"
-    authors: Parshin Shojaee*, <strong>Kazem Meidani</strong>*, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
+    authors: <strong>Kazem Meidani</strong>*, Parshin Shojaee*, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
     conference_short: NeurIPS
     conference: Thirty-seventh Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2303.06833.pdf 
