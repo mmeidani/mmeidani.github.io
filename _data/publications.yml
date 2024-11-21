@@ -43,7 +43,7 @@ main:
     conference: Thirty-seventh Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2303.06833.pdf 
     bibtex:  https://scholar.googleusercontent.com/scholar.bib?q=info:7XhDJVozBgoJ:scholar.google.com/&output=citation&scisdr=ClHShapcELuZ6IlTyls:AFWwaeYAAAAAZR9V0lsvmI_252JGfvyo9P5auBM&scisig=AFWwaeYAAAAAZR9V0ineoF38ARve4iAfHnwL2wA&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/tpsr2.png
+    image: ./assets/img/tpsr.png
 
   - title: "Transformer for Partial Differential Equations' Operator Learning"
     authors: Zijie Li, <strong>Kazem Meidani</strong>, Amir Barati Farimani
