@@ -26,7 +26,7 @@ main:
     conference_short: arXiv
     conference: arXiv Preprint
     pdf: https://arxiv.org/pdf/2404.18400
-    image: ./assets/img/snip_square.png
+    image: ./assets/img/LLMSR.jpg
     notes: New
     
   - title: "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training"
