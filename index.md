@@ -4,7 +4,7 @@ layout: homepage
 
 ## Biography
 
-I am a senior PhD candidate at [Carnegie Mellon University](https://www.cmu.edu). I am a graduate research assistant in the [Mechanical and Artificial Intelligence Lab (MAIL)](https://sites.google.com/view/barati), advised by [Amir Barati Farimani](https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html). During my PhD, I also worked with [Electronic Arts](https://www.ea.com) as AI Scientist Research Intern in EA AI Lab.
+I am a senior PhD candidate at [Carnegie Mellon University](https://www.cmu.edu). I am a graduate research assistant in the [Mechanical and Artificial Intelligence Lab (MAIL)](https://sites.google.com/view/barati), advised by [Amir Barati Farimani](https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html). During my PhD, I also spent summer internships at [Netflix Research]([https://www.ea.com](https://research.netflix.com)) and [Electronic Arts](https://www.ea.com) as AI Research Scientist Intern.
 
 ## Research Interests
 
