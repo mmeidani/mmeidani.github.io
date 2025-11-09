@@ -21,13 +21,27 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
+  # - title: "Decompose, Adapt, and Evolve: Towards Efficient Scientific Equation Discovery with Large Language Models"
+  #   authors: Pouya Behzadifar, Parshin Shojaee, Sanchit Kabra, <strong>Kazem Meidani</strong>, Chandan K. Reddy
+  #   conference_short: NeurIPS Workshop
+  #   conference: NeurIPS 2025 MATH-AI Workshop
+  #   image: ./assets/img/DecAEvolve.png
+
+  - title: "LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models"
+    authors: Parshin Shojaee, Ngoc-Hieu Nguyen, <strong>Kazem Meidani</strong>, Amir Barati Farimani, Khoa D Doan, Chandan K Reddy
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2504.10415
+    image: ./assets/img/llmsrbench.png
+    notes: <strong style="color:red;">Oral (top 1%)</strong>
+
   - title: "LLM-SR: Scientific Equation Discovery via Programming with Large Language Models"
-    authors:  Parshin Shojaee*, <strong>Kazem Meidani</strong>*, Shashank Gupta, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
-    conference_short: arXiv
-    conference: arXiv Preprint
+    authors: <strong>Kazem Meidani</strong>*, Parshin Shojaee*, Shashank Gupta, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2404.18400
     image: ./assets/img/LLMSR.png
-    notes: New
+    notes: <strong style="color:red;">Oral (top 1.8%)</strong>
     
   - title: "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training"
     authors: <strong>Kazem Meidani</strong>*, Parshin Shojaee*, Chandan K. Reddy, Amir Barati Farimani(*Equal Contribution)
@@ -35,7 +49,7 @@ main:
     conference: Twelfth International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://browse.arxiv.org/pdf/2310.02227.pdf 
     image: ./assets/img/snip_square.png
-    notes: Spotlight
+    notes: <strong style="color:red;">Spotlight (top 5%)</strong>
   
   - title: "Transformer-based Planning for Symbolic Regression"
     authors: <strong>Kazem Meidani</strong>*, Parshin Shojaee*, Amir Barati Farimani, Chandan K. Reddy (*Equal Contribution)
@@ -91,19 +105,19 @@ main:
     image: ./assets/img/lighting.png
     notes: Work from Internship at Electronic Arts (EA)
 
-  - title: "Titanium Carbide MXene for Water Desalination: A Molecular Dynamics Study"
-    authors: <strong>Kazem Meidani</strong>*, Zhonglin Cao*, Amir Barati Farimani (*Equal Contribution)
-    conference_short: ACS Appl. Nano Mater.
-    conference: ACS Applied Nano Materials <strong>(ACS Appl. Nano Mater.)</strong>, 2021.
-    pdf: https://pubs.acs.org/doi/abs/10.1021/acsanm.1c00944
-    image: ./assets/img/mxene.png
+  # - title: "Titanium Carbide MXene for Water Desalination: A Molecular Dynamics Study"
+  #   authors: <strong>Kazem Meidani</strong>*, Zhonglin Cao*, Amir Barati Farimani (*Equal Contribution)
+  #   conference_short: ACS Appl. Nano Mater.
+  #   conference: ACS Applied Nano Materials <strong>(ACS Appl. Nano Mater.)</strong>, 2021.
+  #   pdf: https://pubs.acs.org/doi/abs/10.1021/acsanm.1c00944
+  #   image: ./assets/img/mxene.png
 
-  - title: "MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning"
-    authors: Parand Akbari, Francis Ogoke, Ning-Yu Kao, <strong>Kazem Meidani</strong>, Chun-Yu Yeh, William Lee, Amir Barati Farimani 
-    conference_short: Additive Manufacturing
-    conference: Additive Manufacturing, 2022.
-    pdf: https://www.sciencedirect.com/science/article/pii/S2214860422002172
-    image: ./assets/img/am.png
+  # - title: "MeltpoolNet: Melt pool characteristic prediction in Metal Additive Manufacturing using machine learning"
+  #   authors: Parand Akbari, Francis Ogoke, Ning-Yu Kao, <strong>Kazem Meidani</strong>, Chun-Yu Yeh, William Lee, Amir Barati Farimani 
+  #   conference_short: Additive Manufacturing
+  #   conference: Additive Manufacturing, 2022.
+  #   pdf: https://www.sciencedirect.com/science/article/pii/S2214860422002172
+  #   image: ./assets/img/am.png
 
   - title: "Online Metaheuristic Algorithm Selection"
     authors: <strong>Kazem Meidani</strong>, Seyedali Mirjalili, Amir Barati Farimani
