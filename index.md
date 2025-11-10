@@ -8,9 +8,9 @@ I am a senior PhD candidate at [Carnegie Mellon University](https://www.cmu.edu)
 
 ## Research Interests
 
-My primary research interests revolve around Language Models and AI for Science. Most of my works fall into one of the following categories:
-- **Language Models:** LLMs as Search Agents, LLMs for Code generation and Scientific Discovery, Multi-modal Pre-training for Math, Generative Language Models for symbolic expressions
-- **AI for Science:** Transformers and GNNs for Learning Physics, ML and Optimization for Scientific Discovery
+My primary research interests revolve around Large Language Models and AI for Science. Most of my works fall into one of the following categories:
+- **Large Language Models:** Reasoning, RL, Structured Data
+- **AI for Science:** LLMs for Math, Code, and Scientific Discovery, Evolutionary Algorithms, Quality-Diversity
 
 <!-- ## News
 
